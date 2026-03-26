@@ -3,6 +3,8 @@
 ### What is VPS?
 A VPC (**Virtual Private Cloud**) is a logically isolated network in AWS where you can launch and manage your resources (like EC2 instances, databases etc.).
 
+![VPC](./images/vpc.png)
+
 - VPC is a virtual network or datacenter inside AWS for one client
 - It is a logical isolated from other cirtual network in the AWS Cloud
 - A VPC is confined to an AWS region and does not extend between regions
