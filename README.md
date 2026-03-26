@@ -199,6 +199,8 @@ _Key points in Transitive VPC Peering_
 - If VPC A is peered with VPC B and VPC B is peered with VPC C, A cannot reach C through B.
 - Each VPC must have a direct peering connection to communicate
 
+![Transitive VPC Peering](./images/transitive_vpc_peering.png)
+
 ### Conclusion
 
 AWS VPC is the foundation of cloud networking. Understanding VPC helps us:
